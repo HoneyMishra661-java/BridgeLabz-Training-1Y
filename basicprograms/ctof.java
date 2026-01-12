@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ctof {
+public class CtoF {
     public static void main(String[] args) {
         // Create a Scanner object to read input
         Scanner input = new Scanner(System.in);
