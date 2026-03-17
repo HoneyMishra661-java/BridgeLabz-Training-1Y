@@ -7,4 +7,3 @@ public class ExampleWithoutExceptionHandling {
         System.out.println("Result : " + c );
     }
 }
-    
