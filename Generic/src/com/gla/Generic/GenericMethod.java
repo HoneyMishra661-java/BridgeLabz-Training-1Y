@@ -19,7 +19,7 @@ public class GenericMethod {
             int sum = a + b ;
             System.out.println(sum);
             a = b ;
-            b = sum ;
+              b = sum ;
         }
     }
     public static void main (String[] args){
